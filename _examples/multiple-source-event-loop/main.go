@@ -8,13 +8,13 @@ import (
 	"log"
 	"time"
 
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/adrianuswarmenhoven/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/ewmh"
-	"github.com/BurntSushi/xgbutil/xevent"
-	"github.com/BurntSushi/xgbutil/xprop"
-	"github.com/BurntSushi/xgbutil/xwindow"
+	"github.com/adrianuswarmenhoven/xgbutil"
+	"github.com/adrianuswarmenhoven/xgbutil/ewmh"
+	"github.com/adrianuswarmenhoven/xgbutil/xevent"
+	"github.com/adrianuswarmenhoven/xgbutil/xprop"
+	"github.com/adrianuswarmenhoven/xgbutil/xwindow"
 )
 
 // otherSource serves as a placeholder from some other source of user input.

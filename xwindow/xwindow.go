@@ -3,13 +3,13 @@ package xwindow
 import (
 	"fmt"
 
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/adrianuswarmenhoven/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/keybind"
-	"github.com/BurntSushi/xgbutil/mousebind"
-	"github.com/BurntSushi/xgbutil/xevent"
-	"github.com/BurntSushi/xgbutil/xrect"
+	"github.com/adrianuswarmenhoven/xgbutil"
+	"github.com/adrianuswarmenhoven/xgbutil/keybind"
+	"github.com/adrianuswarmenhoven/xgbutil/mousebind"
+	"github.com/adrianuswarmenhoven/xgbutil/xevent"
+	"github.com/adrianuswarmenhoven/xgbutil/xrect"
 )
 
 // Window represents an X window. It contains an XUtilValue to simplfy the

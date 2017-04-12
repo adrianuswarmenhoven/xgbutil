@@ -11,10 +11,10 @@ loop.
 */
 
 import (
-	"github.com/BurntSushi/xgb/shape"
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/adrianuswarmenhoven/xgb/shape"
+	"github.com/adrianuswarmenhoven/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
+	"github.com/adrianuswarmenhoven/xgbutil"
 )
 
 // Read reads one or more events and queues them in XUtil.

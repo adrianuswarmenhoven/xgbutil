@@ -1,9 +1,9 @@
 package xcursor
 
 import (
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/adrianuswarmenhoven/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
+	"github.com/adrianuswarmenhoven/xgbutil"
 )
 
 // CreateCursor sets some default colors for nice and easy cursor creation.

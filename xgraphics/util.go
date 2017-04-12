@@ -8,11 +8,11 @@ import (
 	"math"
 
 	"github.com/BurntSushi/graphics-go/graphics"
-	"github.com/BurntSushi/xgb/xproto"
+	"github.com/adrianuswarmenhoven/xgb/xproto"
 
-	"github.com/BurntSushi/xgbutil"
-	"github.com/BurntSushi/xgbutil/ewmh"
-	"github.com/BurntSushi/xgbutil/icccm"
+	"github.com/adrianuswarmenhoven/xgbutil"
+	"github.com/adrianuswarmenhoven/xgbutil/ewmh"
+	"github.com/adrianuswarmenhoven/xgbutil/icccm"
 )
 
 /*
